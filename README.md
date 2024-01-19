@@ -29,4 +29,8 @@ If you want to run this locally, you've got a few steps to complete:
 1. Clone the repo
 2. Run ```pnpm install``` (or npm/yarn)
 3. Copy the .env.example file to .env.local and fill in the values ```cp .env.example .env.local```
-4.  
+
+
+### Some notes on the code
+- (example) denotes a directory that is a route so in the (example) the route would load at localhost:3000/example.
+- 

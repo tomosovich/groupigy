@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg id="Layer_1" data-name="Layer 1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 115.24 37.58">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: url(#linear-gradient);
+        fill-rule: evenodd;
+      }
+
+      .cls-1, .cls-2 {
+        stroke-width: 0px;
+      }
+
+      .cls-3 {
+        font-family: SpaceGrotesk-Bold, 'Space Grotesk';
+        font-size: 18px;
+        font-variation-settings: 'wght' 700;
+        font-weight: 700;
+      }
+
+      .cls-3, .cls-2 {
+        fill: #192657;
+      }
+    </style>
+    <linearGradient id="linear-gradient" x1="300.7" y1="-208.8" x2="326.06" y2="-208.8" gradientTransform="translate(-296 -192.35) scale(1 -1)" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#64c2db"/>
+      <stop offset=".31" stop-color="#7476ed"/>
+      <stop offset=".6" stop-color="#c994df"/>
+      <stop offset="1" stop-color="#e56f8c"/>
+    </linearGradient>
+  </defs>
+  <path class="cls-2" d="m0,28.18V9.39s9.39,5.22,9.39,5.22v8.4l7.52,4.23,7.52-4.23v-8.4l9.39-5.22v18.79l-16.91,9.39L0,28.18Z"/>
+  <path class="cls-1" d="m4.7,12L0,9.39,16.91,0l16.91,9.39-4.7,2.61v13.83l-12.21,7.05-12.21-7.05v-13.83Zm23.92.28l-4.19,2.33v-.05l-7.52-4.23-7.52,4.23v.05l-4.19-2.33v13.26l11.7,6.75,11.7-6.75v-13.26Z"/>
+  <text class="cls-3" transform="translate(35.25 25.6)"><tspan x="0" y="0">Groupigy</tspan></text>
+</svg>
